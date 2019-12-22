@@ -1,2 +1,2 @@
 # Disable-textBox-on-the-basis-of-checkBox-using-XAML
-Disable textBox in WPF on the basis of checkBox value using XAML
+This is a simple WPF application. It has two controls, a text box and a check box. If the check box is checked then text box is disable and if check box is un-checked then text box is enable. This is is done by using XAML, there is no code in code behined (xaml.cs) file. The required functionality is achieved by using only "DataTrigger" of XAML.
